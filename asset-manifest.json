@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TheCornerStoneDental/static/css/main.5e497db4.css",
-    "main.js": "/TheCornerStoneDental/static/js/main.4a148573.js",
+    "main.js": "/TheCornerStoneDental/static/js/main.19296cf8.js",
     "static/js/787.372fe903.chunk.js": "/TheCornerStoneDental/static/js/787.372fe903.chunk.js",
     "static/media/1.png": "/TheCornerStoneDental/static/media/1.7ee5d44283b510ee1579.png",
     "static/media/Veeners.jpeg": "/TheCornerStoneDental/static/media/Veeners.54598de7e7fb3c15aeda.jpeg",
@@ -34,11 +34,11 @@
     "static/media/gum treatment.jpg": "/TheCornerStoneDental/static/media/gum treatment.37a31ec216394db486e4.jpg",
     "index.html": "/TheCornerStoneDental/index.html",
     "main.5e497db4.css.map": "/TheCornerStoneDental/static/css/main.5e497db4.css.map",
-    "main.4a148573.js.map": "/TheCornerStoneDental/static/js/main.4a148573.js.map",
+    "main.19296cf8.js.map": "/TheCornerStoneDental/static/js/main.19296cf8.js.map",
     "787.372fe903.chunk.js.map": "/TheCornerStoneDental/static/js/787.372fe903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e497db4.css",
-    "static/js/main.4a148573.js"
+    "static/js/main.19296cf8.js"
   ]
 }
