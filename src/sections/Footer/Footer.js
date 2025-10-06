@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../assets/footer_logo.png';
+import logo from '../../assets/logo1.png';
 import './Footer.scss';
 import { FaFacebookF, FaInstagram, FaTwitter} from "react-icons/fa";
 import { Link } from 'react-router-dom';
@@ -35,17 +35,17 @@ const Footer = () => {
     const footerContacts = [
         {
             'title': 'Phone Number',
-            'info': '+088 123 654 987',
+            'info': '9845117800',
             'icon': call
         },
         {
             'title': 'Open Hour',
-            'info': '09:00 AM - 18:00 PM',
+            'info': '09:00 AM - 21:00 PM',
             'icon': time
         },
         {
             'title': 'Clinic Address',
-            'info': '35 West Dental Street California 1004',
+            'info': '1147 I st floor, Kempegowda Road, Sachidananda Nagar, BEML 3rd STAGE, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098',
             'icon': location
         }
     ]
@@ -102,7 +102,7 @@ const Footer = () => {
 
                 <div className="copyright-area">
                     <div className='copy-text'>
-                        <p>&copy; Dentalist. All Right Reserved</p>
+                        <p>&copy; The Cornerstone Dental. All Right Reserved</p>
                     </div>  
                     <div className='copy-links'>
                         <ul>

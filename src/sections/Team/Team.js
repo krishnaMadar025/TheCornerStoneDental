@@ -1,29 +1,17 @@
 import React from 'react';
 import './Team.scss';
-import SectionTitle from '../../components/SectionTitle/SectionTitle';
-import imgOne from '../../assets/about/team/1.png';
-import imgTwo from '../../assets/about/team/2.png';
-import imgThree from '../../assets/about/team/3.png';
-import imgFour from '../../assets/about/team/4.png';
-
+import imgOne from '../../assets/about/team/DrJeevanadam.jpeg';
+import imgTwo from '../../assets/about/team/DrShruti.jpeg';
 const Team = () => {
 
     const teams = [
         {
             'img': imgOne,
-            'name': 'Dianne Russell'
+            'name': 'Dr Jeevanandam'
         },
         {
             'img': imgTwo,
-            'name': 'Esther Howard'
-        },
-        {
-            'img': imgThree,
-            'name': 'Darrell Steward'
-        },
-        {
-            'img': imgFour,
-            'name': 'Jenny Wilson'
+            'name': 'Dr Shruti'
         }
     ]
 
@@ -33,16 +21,9 @@ const Team = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-7">
-                        <SectionTitle 
-                            subTitle="Meet our Team"
-                            title="Get to know the dentalist
-                            dental Team"
-                        />
+                        <span>Meet our Team</span>
                     </div>
 
-                    <div className="col-lg-5">
-                        <p className='pt-5'>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
-                    </div>
                 </div>
 
                 <div className="row">

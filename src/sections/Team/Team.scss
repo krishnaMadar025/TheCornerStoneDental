@@ -1,6 +1,14 @@
 @import '../../sass/colors.scss';
 
 .team-section {
+     span {
+        color: $color-blue;
+        font-size: 14px;
+        text-transform: uppercase;
+        font-weight: 600;
+        margin-bottom: 20px;
+        display: inline-block;
+    }
     .section-title {
         h2 {
             max-width: inherit;

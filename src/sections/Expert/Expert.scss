@@ -3,6 +3,19 @@
 .expert-section {
     padding: 100px 0 150px 0px;
 
+     span {
+        color: $color-blue;
+        font-size: 14px;
+        text-transform: uppercase;
+        font-weight: 600;
+        margin-bottom: 20px;
+        display: inline-block;
+    }
+     h5 {
+        font-size: 28px;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
     .section-title {
         margin-bottom: 30px;
 

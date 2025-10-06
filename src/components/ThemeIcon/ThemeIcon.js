@@ -1,11 +1,15 @@
 import React from 'react';
 import './ThemeIcon.scss';
 
-const ThemeIcon = (icon) => {
+const ThemeIcon = ({ icon }) => {
     return (
-        <div className='icon-box'>
-            <img src={icon.icon} alt="icon" />
-        </div>
+        // <div className='icon-box'>
+        <img 
+            src={icon} 
+            alt="icon" 
+            style={{ borderRadius: 'inherit' }} 
+        />
+        // </div>
     );
 };
 

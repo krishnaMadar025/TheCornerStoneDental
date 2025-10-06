@@ -1,8 +1,7 @@
 import React from 'react';
 import './Expert.scss';
-import SectionTitle from '../../components/SectionTitle/SectionTitle';
 import { BsFillCheckCircleFill } from "react-icons/bs";
-import expertImg from '../../assets/expert.png';
+import expertImg from '../../assets/Expert.jpeg';
 
 const Expert = () => {
     return (
@@ -11,24 +10,21 @@ const Expert = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-6">
                         <div className="expert-text">
-                            <SectionTitle 
-                                subTitle="EXPERTS IN DENTAL"
-                                title="Top-notch dentistry, from Seattle's top dentists."
-                                description="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts"
-                            />
-
+                            
+                           <span>EXPERTS IN DENTAL</span>
+                           <h5>Excellence is our goal, and we provide expert care to protect and enhance your precious smile.</h5>
                             <ul>
                                 <li>
                                     <BsFillCheckCircleFill />
-                                    Top quality dental team
+                                    Top-Notch Expertise
                                 </li>
                                 <li>
                                     <BsFillCheckCircleFill />
-                                    State of the art dental services
+                                    Advanced Technology
                                 </li>
                                 <li>
                                     <BsFillCheckCircleFill />
-                                    Discount on all dental treatment
+                                    Latest Materials
                                 </li>
                             </ul>
                         </div>

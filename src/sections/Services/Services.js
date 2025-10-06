@@ -1,5 +1,4 @@
 import React from 'react';
-import SectionTitle from '../../components/SectionTitle/SectionTitle';
 import './Services.scss';
 import ServicesData from './ServiceData';
 import Service from '../../components/Service/Service';
@@ -13,8 +12,7 @@ const Services = () => {
             <div className="container">
                 <div className="row">
                    
-                        <SectionTitle subTitle="Our Services"/>
-                   
+                   <span>Our Services</span>
                     
                 </div>
 
