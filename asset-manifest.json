@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TheCornerStoneDental/static/css/main.ae83d7e7.css",
-    "main.js": "/TheCornerStoneDental/static/js/main.1069edcd.js",
+    "main.css": "/TheCornerStoneDental/static/css/main.8a85e4d2.css",
+    "main.js": "/TheCornerStoneDental/static/js/main.309a2cd1.js",
     "static/js/787.372fe903.chunk.js": "/TheCornerStoneDental/static/js/787.372fe903.chunk.js",
-    "static/media/1.png": "/TheCornerStoneDental/static/media/1.7ee5d44283b510ee1579.png",
     "static/media/Veeners.jpeg": "/TheCornerStoneDental/static/media/Veeners.54598de7e7fb3c15aeda.jpeg",
+    "static/media/1.png": "/TheCornerStoneDental/static/media/1.7ee5d44283b510ee1579.png",
     "static/media/shrutiOp.png": "/TheCornerStoneDental/static/media/shrutiOp.cd71b7bb9452d32a3a49.png",
     "static/media/jeevaOp1.png": "/TheCornerStoneDental/static/media/jeevaOp1.c02141ae4b674391b21f.png",
     "static/media/6.png": "/TheCornerStoneDental/static/media/6.835111e5a94589d42630.png",
@@ -33,12 +33,12 @@
     "static/media/DentalJewel.jpg": "/TheCornerStoneDental/static/media/DentalJewel.e8076586ae997c766fea.jpg",
     "static/media/gum treatment.jpg": "/TheCornerStoneDental/static/media/gum treatment.37a31ec216394db486e4.jpg",
     "index.html": "/TheCornerStoneDental/index.html",
-    "main.ae83d7e7.css.map": "/TheCornerStoneDental/static/css/main.ae83d7e7.css.map",
-    "main.1069edcd.js.map": "/TheCornerStoneDental/static/js/main.1069edcd.js.map",
+    "main.8a85e4d2.css.map": "/TheCornerStoneDental/static/css/main.8a85e4d2.css.map",
+    "main.309a2cd1.js.map": "/TheCornerStoneDental/static/js/main.309a2cd1.js.map",
     "787.372fe903.chunk.js.map": "/TheCornerStoneDental/static/js/787.372fe903.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae83d7e7.css",
-    "static/js/main.1069edcd.js"
+    "static/css/main.8a85e4d2.css",
+    "static/js/main.309a2cd1.js"
   ]
 }
