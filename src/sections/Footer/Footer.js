@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../../assets/logo1.png';
 import './Footer.scss';
-import { FaFacebookF, FaInstagram, FaTwitter} from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaYoutube} from "react-icons/fa";
 import { Link } from 'react-router-dom';
 import call from '../../assets/footer/calling.png';
 import time from '../../assets/footer/time.png';
@@ -25,10 +25,6 @@ const Footer = () => {
         {
             'name' : 'Blogs',
             'link' : '/'
-        },
-        {
-            'name' : 'FAQs',
-            'link' : '/'
         }
     ];
 
@@ -40,7 +36,7 @@ const Footer = () => {
         },
         {
             'title': 'Open Hour',
-            'info': '09:00 AM - 21:00 PM',
+            'info': '10:00 AM - 21:00 PM',
             'icon': time
         },
         {
@@ -58,14 +54,14 @@ const Footer = () => {
                         <div className="footer-logo">
                             <img src={logo} alt="logo" />
                         </div>
-                        <p>Dental Care Seattle is a top-rated local practice for cosmetic, preventative, and restorative dentistry on First Hill</p>
+                        <p>Best Dental clinic in RRNagar, Bengaluru.</p>
 
                         <div className="social-logo">
                             <p>Follow us on</p>
                             <ul>
-                                <li><a href="/"><FaFacebookF/></a></li>
-                                <li><a href="/"><FaTwitter/></a></li>
-                                <li><a href="/"><FaInstagram/></a></li>
+                                <li><a href="https://www.facebook.com/share/1FvtX2WaxW/"target="_blank" rel="noopener noreferrer"><FaFacebookF/></a></li>
+                                <li><a href="https://youtube.com/@thecornerstonedental?si=cqOBt_TBf6z_DrCn" target="_blank" rel="noopener noreferrer"><FaYoutube/></a></li>
+                                <li><a href="https://www.instagram.com/the_cornerstone_dental?igsh=MTR4aTkzMXZ1a3ppNQ==" target="_blank" rel="noopener noreferrer"><FaInstagram/></a></li>
                             </ul>
                         </div>
                     </div>
@@ -91,7 +87,7 @@ const Footer = () => {
                                                 </div>
                                                 <div className="contact-text">
                                                     <p>{footerContact.title}</p>
-                                                    <h5>{footerContact.info}</h5>
+                                                    <h6>{footerContact.info}</h6>
                                                 </div>
                                             </div>
                                 })
