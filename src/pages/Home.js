@@ -6,7 +6,7 @@ import Expert from '../sections/Expert/Expert';
 import Features from '../sections/Features/Features';
 import Footer from '../sections/Footer/Footer';
 import Team from '../sections/Team/Team';
-import Services from '../sections/Services/Services';
+import Services from '../sections/Services/ServicesHome';
 import Testimonial from '../sections/Testimonial/Testimonial';
 
 const Home = () => {
