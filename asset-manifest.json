@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TheCornerStoneDental/static/css/main.e7644b62.css",
-    "main.js": "/TheCornerStoneDental/static/js/main.59675012.js",
+    "main.css": "/TheCornerStoneDental/static/css/main.ae83d7e7.css",
+    "main.js": "/TheCornerStoneDental/static/js/main.3e23f442.js",
     "static/js/787.372fe903.chunk.js": "/TheCornerStoneDental/static/js/787.372fe903.chunk.js",
     "static/media/1.png": "/TheCornerStoneDental/static/media/1.7ee5d44283b510ee1579.png",
     "static/media/Veeners.jpeg": "/TheCornerStoneDental/static/media/Veeners.54598de7e7fb3c15aeda.jpeg",
+    "static/media/jeevaOp1.png": "/TheCornerStoneDental/static/media/jeevaOp1.c02141ae4b674391b21f.png",
     "static/media/6.png": "/TheCornerStoneDental/static/media/6.835111e5a94589d42630.png",
     "static/media/3.png": "/TheCornerStoneDental/static/media/3.fc6715baa4bfbbf56dbb.png",
-    "static/media/banner_1.png": "/TheCornerStoneDental/static/media/banner_1.9e7ce5cd85273d5458c9.png",
     "static/media/2.png": "/TheCornerStoneDental/static/media/2.51032910e1b5fdcd45be.png",
     "static/media/banner_2.png": "/TheCornerStoneDental/static/media/banner_2.13a0b9b4236e02e2ea04.png",
     "static/media/5.png": "/TheCornerStoneDental/static/media/5.d20235fdf32b7468ac67.png",
@@ -33,12 +33,12 @@
     "static/media/DentalJewel.jpg": "/TheCornerStoneDental/static/media/DentalJewel.e8076586ae997c766fea.jpg",
     "static/media/gum treatment.jpg": "/TheCornerStoneDental/static/media/gum treatment.37a31ec216394db486e4.jpg",
     "index.html": "/TheCornerStoneDental/index.html",
-    "main.e7644b62.css.map": "/TheCornerStoneDental/static/css/main.e7644b62.css.map",
-    "main.59675012.js.map": "/TheCornerStoneDental/static/js/main.59675012.js.map",
+    "main.ae83d7e7.css.map": "/TheCornerStoneDental/static/css/main.ae83d7e7.css.map",
+    "main.3e23f442.js.map": "/TheCornerStoneDental/static/js/main.3e23f442.js.map",
     "787.372fe903.chunk.js.map": "/TheCornerStoneDental/static/js/787.372fe903.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7644b62.css",
-    "static/js/main.59675012.js"
+    "static/css/main.ae83d7e7.css",
+    "static/js/main.3e23f442.js"
   ]
 }
