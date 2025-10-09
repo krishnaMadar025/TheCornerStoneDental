@@ -8,7 +8,7 @@ const Features = () => {
     return (
         <section className='section-bg section-common features-section pt-100 pb-70' data-aos="fade-up" data-aos-duration="2000">
             <div className="container">
-                <SectionTitle subTitle="Features" title="Specialized  care through experiences" description=""/>
+                <SectionTitle subTitle="Features" title="Why Choose Us?" description=""/>
 
                 <div className="row align-items-center">
                     {

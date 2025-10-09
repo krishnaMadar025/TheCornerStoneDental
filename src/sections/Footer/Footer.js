@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../assets/logo1.png';
+import logo from '../../assets/logo1.svg';
 import './Footer.scss';
 import { FaFacebookF, FaInstagram, FaYoutube} from "react-icons/fa";
 import { Link } from 'react-router-dom';
