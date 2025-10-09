@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/TheCornerStoneDental/static/css/main.8a85e4d2.css",
-    "main.js": "/TheCornerStoneDental/static/js/main.309a2cd1.js",
+    "main.js": "/TheCornerStoneDental/static/js/main.9428802f.js",
     "static/js/787.372fe903.chunk.js": "/TheCornerStoneDental/static/js/787.372fe903.chunk.js",
+    "static/media/logo1.svg": "/TheCornerStoneDental/static/media/logo1.3b95a33a3606726ab5a3031c5127b831.svg",
     "static/media/Veeners.jpeg": "/TheCornerStoneDental/static/media/Veeners.54598de7e7fb3c15aeda.jpeg",
     "static/media/1.png": "/TheCornerStoneDental/static/media/1.7ee5d44283b510ee1579.png",
     "static/media/shrutiOp.png": "/TheCornerStoneDental/static/media/shrutiOp.cd71b7bb9452d32a3a49.png",
@@ -19,7 +20,6 @@
     "static/media/MouthRehab.jpg": "/TheCornerStoneDental/static/media/MouthRehab.6a13aaf04857c1350774.jpg",
     "static/media/TeethFilling.jpg": "/TheCornerStoneDental/static/media/TeethFilling.f172e980f8c4f5b6da31.jpg",
     "static/media/gum disease.jpg": "/TheCornerStoneDental/static/media/gum disease.28a3c96b8314d9f2dd53.jpg",
-    "static/media/logo1.png": "/TheCornerStoneDental/static/media/logo1.a426696a9c2c45300e9e.png",
     "static/media/SmileDesign.jpg": "/TheCornerStoneDental/static/media/SmileDesign.7f340d22be42c6cee0ff.jpg",
     "static/media/microsurgery.webp": "/TheCornerStoneDental/static/media/microsurgery.4e3b72fb6d87c3ed4910.webp",
     "static/media/DentalImplant.jpg": "/TheCornerStoneDental/static/media/DentalImplant.4fca53a5627e9f80638b.jpg",
@@ -34,11 +34,11 @@
     "static/media/gum treatment.jpg": "/TheCornerStoneDental/static/media/gum treatment.37a31ec216394db486e4.jpg",
     "index.html": "/TheCornerStoneDental/index.html",
     "main.8a85e4d2.css.map": "/TheCornerStoneDental/static/css/main.8a85e4d2.css.map",
-    "main.309a2cd1.js.map": "/TheCornerStoneDental/static/js/main.309a2cd1.js.map",
+    "main.9428802f.js.map": "/TheCornerStoneDental/static/js/main.9428802f.js.map",
     "787.372fe903.chunk.js.map": "/TheCornerStoneDental/static/js/787.372fe903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a85e4d2.css",
-    "static/js/main.309a2cd1.js"
+    "static/js/main.9428802f.js"
   ]
 }
